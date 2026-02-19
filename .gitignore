@@ -1,0 +1,11 @@
+# .NET build output (contains machine-specific paths and caches)
+**/bin/
+**/obj/
+
+# IDE/user-specific metadata
+*.user
+*.rsuser
+*.suo
+
+# Extra safeguard for absolute path leak files
+*.FileListAbsolute.txt
